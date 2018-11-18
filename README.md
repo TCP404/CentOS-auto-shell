@@ -1,4 +1,5 @@
-# ShareShell
+autoMySQL_8_0-20180827.sh ： 一键安装MySQL8.0
+
 这个脚本是基于CentOS 7.5.1804版本  
 也只在上述本版中测试过。
 此脚本的安装方式为解压rpm包，然后用yum命令安装
